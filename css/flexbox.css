@@ -115,6 +115,13 @@
     justify-content: center;
 }
 
+.videoSobre .container {
+    flex-direction: column;
+}
 
+.videoSobre-video {
+    width: 400px;
+    height: 200px;
+}
 
 }
